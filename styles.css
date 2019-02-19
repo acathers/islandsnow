@@ -1,0 +1,17 @@
+
+
+.ui.menu.borderless.fitted{
+
+  background-color: rgb(249,249,249);
+}
+
+.ui.container{
+  width: 60%;
+}
+
+.item.shoppingcart{
+    position: inherit;
+
+}
+
+
